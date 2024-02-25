@@ -12,7 +12,7 @@ export default {
         "primary" : "#01051e",
         "primary-light" : "#050a33",
         "secondary":"#0174BE",
-        "third":'#FFC436'
+        "third":'red'
       },
     },
     container: {
