@@ -2,7 +2,7 @@ import React from "react";
 
 const App = ({ prod }) => {
     return (
-        <div class="shadow-lg rounded-lg bg-green-500 p-3 relative">
+        <div class="shadow-lg rounded-lg bg-green-600 p-3 relative">
             <div class=" w-full">
                 <img
                     src={prod.img}

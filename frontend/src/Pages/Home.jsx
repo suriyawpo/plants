@@ -1,5 +1,5 @@
 import React from "react";
-import img from "./assets/bg4.png";
+import img from "./assets/bg2.png";
 import logo from "./assets/logo3.png";
 
 const App = () => {
@@ -46,7 +46,7 @@ const App = () => {
                     </a>
                 </div>
             </div>
-            <div class="container text-white flex flex-col md:flex-row items-center justify-between h-[500px]">
+            <div class="container text-white flex flex-col md:flex-row items-center justify-between h-[550px]">
                 <div class="md:w-1/2">
                     <div class=" ">
                         <p class="text-5xl font-bold capitalize">
@@ -76,7 +76,7 @@ const App = () => {
                             quis
                             expedita.
                         </p>
-                        <button class="rounded-md bg-white text-green-600 px-4 py-3">
+                        <button class="rounded-md bg-white text-green-700 px-4 py-2">
                             Order Now
                         </button>
                     </div>

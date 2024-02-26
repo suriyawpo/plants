@@ -3,7 +3,7 @@ import img from "./assets/rshm.png";
 
 const App = () => {
     return (
-        <div class="bg-green-50 mt-80 md:mt-28">
+        <div class="bg-green-200 mt-80 md:mt-28">
             <div class="container py-12 ">
                 <div class="flex  justify-between gap-6 flex-col md:flex-row ">
                     <div class="flex-1  relative  ">
@@ -14,7 +14,7 @@ const App = () => {
                         />
                     </div>
                     <div class="flex-1">
-                        <p class="capitalize text-2xl font-bold text-green-500 mt-4">
+                        <p class="capitalize text-2xl font-bold text-green-700 mt-4">
                             feels good
                             to be you
                         </p>
