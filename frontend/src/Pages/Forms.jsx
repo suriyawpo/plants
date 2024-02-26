@@ -27,7 +27,7 @@ const App = () => {
                                     form
                                 }
                                 alt=""
-                                class=""
+                                class="bg-cover"
                             />
                         </div>
                     </div>
@@ -35,7 +35,7 @@ const App = () => {
                         <img
                             src={img}
                             alt=""
-                            class="rounded-l-4xl"
+                            class="rounded-l-4xl object-fill "
                         />
                     </div>
                 </div>

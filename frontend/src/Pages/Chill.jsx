@@ -29,11 +29,11 @@ const App = () => {
                             mollitia.
                         </p>
                     </div>
-                    <div class="flex-1">
+                    <div class=" bg-yellow-200">
                         <img
                             src={img}
                             alt=""
-                            class="  bg-cover"
+                            class="object-contain"
                         />
                     </div>
                 </div>
