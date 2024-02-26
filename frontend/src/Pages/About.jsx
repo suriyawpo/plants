@@ -6,11 +6,11 @@ const App = () => {
         <div class="bg-green-200 mt-80 md:mt-28">
             <div class="container py-12 ">
                 <div class="flex  justify-between gap-6 flex-col md:flex-row ">
-                    <div class="flex-1  relative  ">
+                    <div class="flex-1  relative text-center ">
                         <img
                             src={img}
                             alt=""
-                            class="absolute -bottom-12"
+                            class="absolute left-0 right-0 -bottom-12 h-96 mx-auto"
                         />
                     </div>
                     <div class="flex-1">

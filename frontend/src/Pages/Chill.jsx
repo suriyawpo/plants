@@ -33,7 +33,7 @@ const App = () => {
                         <img
                             src={img}
                             alt=""
-                            class=""
+                            class="  bg-cover"
                         />
                     </div>
                 </div>

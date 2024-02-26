@@ -22,25 +22,25 @@ const App = () => {
                 <div className="space-x-10 hidden font-semibold  md:block ">
                     <a
                         href=""
-                        className="hover:text-blue-800"
+                        className="hover:text-yellow-300"
                     >
                         Home
                     </a>
                     <a
                         href=""
-                        className=""
+                        className="hover:text-yellow-300"
                     >
                         Products
                     </a>
                     <a
                         href=""
-                        className=""
+                        className="hover:text-yellow-300"
                     >
                         About Us
                     </a>
                     <a
                         href=""
-                        className="border-2 rounded-md py-2 px-4"
+                        className="border-2 rounded-md py-2 px-4 hover:bg-yellow-300"
                     >
                         Contact Us
                     </a>
@@ -76,7 +76,7 @@ const App = () => {
                             quis
                             expedita.
                         </p>
-                        <button class="rounded-md bg-white text-green-700 px-4 py-2">
+                        <button class="rounded-md bg-white text-green-700 hover:bg-yellow-300 hover:text-white px-4 py-2">
                             Order Now
                         </button>
                     </div>
