@@ -8,7 +8,7 @@ const App = () => {
             style={{
                 backgroundImage: `url(${img})`
             }}
-            className="relative h-[650px] bg-right-top md:bg-cover font-prime"
+            className="relative  bg-right bg-cover font-prime"
         >
             {" "}
             <div className="container flex justify-between items-center text-white py-3">
@@ -40,7 +40,7 @@ const App = () => {
                     </a>
                     <a
                         href=""
-                        className="bg-third rounded-md py-2 px-4"
+                        className="border-2 rounded-md py-2 px-4"
                     >
                         Contact Us
                     </a>
@@ -76,7 +76,7 @@ const App = () => {
                             quis
                             expedita.
                         </p>
-                        <button class="rounded-md bg-red-500 px-4 py-3">
+                        <button class="rounded-md bg-white text-green-600 px-4 py-3">
                             Order Now
                         </button>
                     </div>
